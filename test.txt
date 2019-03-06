@@ -5,5 +5,5 @@ Line 3 k
 Line 3 tina
 
 function = () =>{
- console.log();
+ console.log("onna");
 };
